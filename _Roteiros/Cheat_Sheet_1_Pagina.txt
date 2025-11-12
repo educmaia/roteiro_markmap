@@ -1,0 +1,154 @@
+╔═══════════════════════════════════════════════════════════════╗
+║  CHEAT SHEET - ENTREVISTA NÃO-ADOTANTES IA (1 PÁGINA)        ║
+║  Eduardo Maia | Mestrado MUST | Mantenha sempre visível!     ║
+╚═══════════════════════════════════════════════════════════════╝
+
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ REGRA DE OURO: PROBLEMA → EXPLICAR IA → PERGUNTAR         ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+
+┌──────────────────────────────────────────────────────────┐
+│ COMO EXPLICAR IA EM 30 SEGUNDOS                          │
+└──────────────────────────────────────────────────────────┘
+"ChatGPT é tipo um assistente que escreve pra você.
+Você fala: 'Escreve legenda sobre blusa florida, algo 
+divertido'. Em 10 seg ele dá 3 opções prontas. Você escolhe,
+ajusta, posta. É tipo ter estagiário de graça. Saca?"
+
+┌──────────────────────────────────────────────────────────┐
+│ AS 7 PERGUNTAS OBRIGATÓRIAS (Núcleo da entrevista)      │
+└──────────────────────────────────────────────────────────┘
+
+1️⃣ BARREIRA PRINCIPAL
+□ "Qual o PRINCIPAL obstáculo que te impede de usar IA?"
+  [ANOTAR - DADO MAIS CRÍTICO]
+
+2️⃣ BENEFÍCIOS ESPERADOS (Performance Expectancy)
+□ "Você acha que IA te ajudaria com [PROBLEMA QUE ELA RELATOU]?"
+□ "Você acha que conteúdo de IA seria BOM ou RUIM/SEM ALMA?"
+
+3️⃣ FACILIDADE (Effort Expectancy)
+□ "Seria FÁCIL ou DIFÍCIL pra você aprender? Por quê?"
+
+4️⃣ PRESSÃO SOCIAL (Social Influence)
+□ "Seus CONCORRENTES usam IA? Você sente que precisa usar 
+   pra não ficar pra trás?"
+
+5️⃣ RECURSOS (Facilitating Conditions)
+□ "Teria TEMPO/DINHEIRO/AJUDA pra aprender? Ou seria problema?"
+
+6️⃣ ESTRATÉGIAS SEM IA (Validar não-adoção)
+□ "Como você faz HOJE sem IA? Essas estratégias FUNCIONAM BEM?"
+
+7️⃣ AUTENTICIDADE (Categoria emergente)
+□ "Você tem MEDO de perder a essência da marca ao usar IA?"
+
+┌──────────────────────────────────────────────────────────┐
+│ COMO CONECTAR IA AOS PROBLEMAS DELA                      │
+└──────────────────────────────────────────────────────────┘
+
+Se ela disse...              Pergunte...
+───────────────────────────────────────────────────────────
+"Falta tempo"                "IA economizaria tempo pra você?"
+"Faz tudo sozinha"           "IA seria tipo ter um ajudante?"
+"Difícil criar conteúdo"     "IA te dando ideias ajudaria?"
+"Não sei se dá retorno"      "IA analisando dados ajudaria?"
+
+┌──────────────────────────────────────────────────────────┐
+│ CHECKLIST: COBRI TUDO?                                   │
+└──────────────────────────────────────────────────────────┘
+
+□ Por que NÃO usa? (Barreira principal)
+□ Performance Expectancy (Vê benefícios? Quais?)
+□ Effort Expectancy (Acha fácil/difícil?)
+□ Social Influence (Pressão de concorrentes?)
+□ Facilitating Conditions (Tem recursos?)
+□ Estratégias SEM IA (Como faz hoje? Funciona?)
+□ Autenticidade (Medo de perder identidade?)
+□ Futuro (Vai usar daqui X anos?)
+
+┌──────────────────────────────────────────────────────────┐
+│ SE ALGO DER ERRADO                                       │
+└──────────────────────────────────────────────────────────┘
+
+Ela não entende IA?
+→ Mostrar no celular: abrir ChatGPT, pedir pra escrever
+  sobre produto dela, mostrar resultado
+
+Ela desvia pra outro assunto (tráfego pago)?
+→ "Entendi, mas queria focar em IA pra criar conteúdo.
+   Tipo ChatGPT. Conhece?"
+
+Ela responde "não sei" sempre?
+→ Usar cenário: "Segunda de manhã, sem ideia pro post.
+   Se ferramenta te desse 3 ideias em 10 seg, usaria?"
+
+Entrevista desviou muito?
+→ Olhar checklist acima, ver o que falta
+→ "Agora queria fazer perguntas específicas sobre..."
+
+┌──────────────────────────────────────────────────────────┐
+│ LEMBRE-SE!                                               │
+└──────────────────────────────────────────────────────────┘
+
+✓ LIMITE Rapport a 15 min, depois siga roteiro
+✓ Se ela menciona PROBLEMA → ANOTE e conecte com IA
+✓ Se resposta VAGA → "Por quê?" ou "Me dá exemplo?"
+✓ GRAVE ÁUDIO (não confie só em anotações)
+✓ Não-adotantes são TÃO valiosos quanto adotantes
+✓ Objetivo: ENTENDER, não CONVENCER
+
+┌──────────────────────────────────────────────────────────┐
+│ TEMPO IDEAL                                              │
+└──────────────────────────────────────────────────────────┘
+
+Rapport (Bloco 1):           10-15 min
+Perguntas sobre IA:          30-40 min
+Margem pra aprofundar:       10-15 min
+                             ─────────
+TOTAL:                       50-70 min
+
+═══════════════════════════════════════════════════════════
+
+EXEMPLO DE FLUXO IDEAL
+
+1. Rapport (15 min): "Me conta sobre sua empresa..."
+   → Captar: porte, setor, canais, desafios
+
+2. Confirmar conhecimento (2 min):
+   "Você conhece ChatGPT?" 
+   → SE NÃO: Explicar (30 seg)
+
+3. Por que não usa? (5 min):
+   "Já pensou em usar? Por que não?"
+   → Identificar barreira principal
+
+4. Benefícios (7 min):
+   "Você acha que IA te ajudaria com [problema dela]?"
+   → Capturar Performance Expectancy
+
+5. Facilidade (5 min):
+   "Seria fácil ou difícil aprender?"
+   → Capturar Effort Expectancy
+
+6. Influências (5 min):
+   "Concorrentes usam? Você sente pressão?"
+   → Capturar Social Influence
+
+7. Recursos (7 min):
+   "Teria tempo/dinheiro/ajuda?"
+   → Capturar Facilitating Conditions
+
+8. Estratégias sem IA (5 min):
+   "Como faz hoje? Funciona bem?"
+   → Validar não-adoção como escolha
+
+9. Futuro (5 min):
+   "Daqui X anos, vai usar? O que precisaria mudar?"
+   → Capturar intenção futura
+
+10. Encerramento (2 min):
+    "Tem algo que não perguntei?"
+    → Categorias emergentes
+
+═══════════════════════════════════════════════════════════
