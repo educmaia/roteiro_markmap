@@ -236,355 +236,853 @@ Vai usar daqui X anos? O que precisaria mudar?
 ## 📋 BLOCO 2: PRÁTICAS DE MARKETING DIGITAL E IA (15-20 min)
 
 **Objetivo Específico:** OE1 - Descrever práticas atuais de marketing digital
-**Construtos:** Contextualização
+**Construtos:** Contextualização para UTAUT
+**Teoria Base:** Difusão de Inovações (Rogers, 2003)
 
-### [TODOS] Perguntas Universais
+---
 
-#### 2.1 Conhecimento sobre IA
+### [TODOS] 🔵 PERGUNTAS PARA TODOS OS PERFIS
+
+**⚠️ FAZER PRIMEIRO - Identificar perfil nos primeiros 5 minutos deste bloco**
+
+#### 2.1 Conhecimento sobre IA Generativa
 
 **"Você já ouviu falar em Inteligência Artificial pra marketing? ChatGPT, por exemplo?"**
 
-##### Se SIM
-"O que você sabe sobre isso?"
+##### Probes se CONHECE
+- "O que você sabe sobre isso?"
+- "Onde você ouviu falar?"
+- "Conhece alguém que usa?"
 
-##### Se NÃO
-Usar explicação de 30 segundos (ver seção acima)
+##### Probes se NÃO CONHECE
+- Usar explicação de 30 segundos (ver seção no topo)
+- Mostrar ChatGPT no celular se necessário
+- Perguntar: "Agora que expliquei, já tinha visto algo assim?"
 
 ##### Capturar
-- Nível de familiaridade (nenhum/básico/intermediário)
-- Fonte do conhecimento (mídia/pares/experiência)
+- Nível de familiaridade: NENHUM / BÁSICO / INTERMEDIÁRIO / AVANÇADO
+- Fonte do conhecimento: Mídia / Pares / Concorrentes / Experiência própria
+- Tom emocional: Curioso / Cético / Entusiasmado / Defensivo
 
-#### 2.2 Primeiro Contato
+###### Nota Metodológica
+Este é o ponto de identificação do perfil. Observar se ela diz:
+- "Ah, eu uso!" → ADOTANTE (siga rota 🟢)
+- "Conheço mas não uso" → NÃO-ADOTANTE (siga rota 🔴)
+- "Já testei mas..." → EXPERIMENTADOR (siga rota 🟡)
 
-**"Como você conheceu essas ferramentas de IA?"**
+#### 2.2 Primeiro Contato com IA
+
+**"Como foi a primeira vez que você teve contato com IA pra marketing?"**
 
 ##### Probes
-- Foi por notícia?
-- Alguém comentou?
-- Viu concorrente usando?
+- "Foi por notícia? Rede social?"
+- "Alguém te contou? Quem?"
+- "Viu concorrente usando?"
+- "Quanto tempo faz?"
 
 ##### Capturar
-- Canal de awareness
+- Canal de awareness (mídia/pares/mercado)
 - Contexto da primeira exposição
+- Tempo desde o primeiro contato
+- Reação inicial (positiva/negativa/neutra)
 
-### 🟢 [ADOTANTES] Perguntas Específicas
+###### Nota Metodológica
+Capturar o "momento de awareness" ajuda a entender barreiras temporais de adoção
 
-#### 2.3 Ferramentas Utilizadas
+---
 
-**"Quais ferramentas de IA você usa? ChatGPT? Outra?"**
+### 🟢 [ADOTANTES PLENOS] ROTA VERDE
 
-##### Probes por tipo de IA
-- **Task Automation**: "Usa pra escrever legenda? Criar posts?"
-- **Context Awareness**: "Ela entende o estilo da sua marca?"
-- **Decision Support**: "Usa pra analisar dados? Decidir estratégia?"
+**⚠️ Use APENAS se a entrevistada USA IA regularmente no marketing**
+**⚠️ Se ela NÃO USA, PULE para seção 🔴 [NÃO-ADOTANTES]**
+
+---
+
+#### 2.3 🟢 Ferramentas de IA Utilizadas
+
+**"Quais ferramentas de IA você usa? Me conta quais você conhece e usa."**
+
+##### Probes - Lista de Ferramentas
+- "ChatGPT? (OpenAI)"
+- "Gemini? (Google)"
+- "Claude? (Anthropic)"
+- "Midjourney? DALL-E? (Imagens)"
+- "Copy.ai? Jasper? (Marketing específico)"
+- "Canva com IA?"
+- "Outras?"
+
+##### Probes - Tipo de IA (Taxonomia Davenport)
+- **Task Automation**: "Usa pra escrever legenda? Criar posts automáticos?"
+- **Context Awareness**: "Ela entende o estilo da sua marca? Se adapta?"
+- **Decision Support**: "Usa pra analisar dados? Sugerir estratégias?"
 
 ##### Capturar
-- Taxonomia Davenport (automação/adaptação/análise)
-- Taxonomia Huang & Rust (Mechanical/Thinking/Feeling AI)
+- Lista completa de ferramentas (gratuitas vs. pagas)
+- Frequência de uso de cada uma
+- Taxonomia Davenport: AUTOMATION / AWARENESS / DECISION
+- Taxonomia Huang & Rust: MECHANICAL AI / THINKING AI / FEELING AI
 
-#### 2.4 Tarefas Delegadas
+###### Nota Metodológica
+Mapear múltiplas ferramentas indica maturidade de adoção. Uma ferramenta = adotante inicial. Múltiplas = adotante maduro.
 
-**"Pra quais tarefas específicas você usa IA?"**
+#### 2.4 🟢 Tarefas Específicas Delegadas à IA
+
+**"Pra quais tarefas ESPECÍFICAS você usa IA no dia a dia?"**
+
+##### Probes Estruturados por Função
+
+###### Criação de Conteúdo
+- "Escrever legendas de posts?"
+- "Criar textos de blog/site?"
+- "Gerar ideias de conteúdo?"
+- "Criar imagens?"
+
+###### Análise e Estratégia
+- "Analisar desempenho de posts?"
+- "Entender público-alvo?"
+- "Planejar calendário editorial?"
+- "Sugerir horários de postagem?"
+
+###### Atendimento e Relacionamento
+- "Responder DM/WhatsApp?"
+- "Criar respostas pra comentários?"
+- "Personalizar comunicação?"
+
+###### Operacional
+- "Criar hashtags?"
+- "Revisar textos?"
+- "Traduzir conteúdo?"
+
+##### Capturar
+- Amplitude de uso: PONTUAL (1-2 tarefas) / MODERADO (3-5) / AMPLO (6+)
+- Nível de integração: AD HOC / ROTINEIRO / SISTEMÁTICO
+- Tarefa mais delegada (priorização)
+- Tarefas que NÃO delega (por quê?)
+
+###### Nota Metodológica
+A amplitude indica profundidade de adoção. Capturar tarefas NÃO delegadas revela limites percebidos da IA.
+
+#### 2.5 🟢 Mudanças Observadas no Trabalho
+
+**"O que REALMENTE mudou no seu trabalho depois que começou a usar IA?"**
+
+##### Probes de Impacto - 4 Dimensões
+
+###### Tempo
+- "Economiza quanto tempo? Por dia? Por semana?"
+- "Consegue fazer em 1h o que levava quanto antes?"
+
+###### Qualidade
+- "Conteúdo ficou melhor? Pior? Igual?"
+- "Clientes/seguidores perceberam diferença? Como reagiram?"
+
+###### Produtividade
+- "Consegue postar com mais frequência?"
+- "Faz mais coisas na mesma quantidade de tempo?"
+
+###### Criatividade
+- "Te dá mais ideias?"
+- "Te ajuda a sair do bloqueio criativo?"
+- "Descobre ângulos que não pensaria sozinha?"
+
+##### Capturar
+- Benefícios realizados vs. benefícios esperados (gap?)
+- Surpresas positivas (inesperadas)
+- Surpresas negativas (decepções)
+- Mudança mais significativa (priorizar 1)
+
+###### Nota Metodológica
+Gap entre expectativa e realidade indica calibragem de Performance Expectancy. Surpresas indicam categorias emergentes.
+
+#### 2.6 🟢 Jornada de Adoção
+
+**"Me conta como foi começar a usar. Foi fácil ou teve dificuldade?"**
+
+##### Probes - Curva de Aprendizado
+- "Quanto tempo levou pra 'pegar o jeito'?"
+- "Precisou de ajuda de alguém? Quem?"
+- "Assistiu tutorial? Fez curso?"
+- "Primeira tentativa deu certo ou errado?"
+
+##### Probes - Obstáculos Superados
+- "Qual foi a MAIOR dificuldade no começo?"
+- "Teve vontade de desistir? Quando? Por quê?"
+- "O que te fez continuar tentando?"
+
+##### Probes - Estado Atual
+- "Hoje se sente confortável usando?"
+- "Ainda tem dificuldade em alguma coisa?"
+- "O que gostaria de saber fazer mas não sabe?"
+
+##### Capturar
+- Tempo de curva de aprendizado (dias/semanas/meses)
+- Barreiras iniciais superadas (técnicas/psicológicas)
+- Fontes de suporte (pessoa/conteúdo/tentativa-erro)
+- Auto-eficácia atual (alta/média/baixa)
+- Erros iniciais e aprendizados
+
+###### Nota Metodológica
+Jornada de adoção revela Effort Expectancy real vs. percebido. Adotantes que superaram barreiras têm narrativa valiosa para não-adotantes.
+
+#### 2.7 🟢 Limitações e Frustrações com IA
+
+**"Tem algo que IA NÃO consegue fazer bem e você gostaria? Alguma limitação que te frustra?"**
 
 ##### Probes
-- Criação de conteúdo (textos/imagens)?
-- Análise de desempenho?
-- Planejamento de campanhas?
-- Atendimento ao cliente?
+- "O que você ainda faz 100% manual por que IA não dá conta?"
+- "Já teve resultado ruim? Me dá exemplo."
+- "O que IA faz que parece 'robótico' demais?"
+- "Sente falta de alguma função?"
 
 ##### Capturar
-- Amplitude de uso (pontual vs. sistemático)
-- Nível de integração no workflow
+- Gaps funcionais (o que IA não faz)
+- Gaps de qualidade (o que IA faz mal)
+- Expectativas não atendidas
+- Workarounds criados
 
-#### 2.5 Mudanças Observadas
+###### Nota Metodológica
+Limitações atuais dos adotantes podem ser barreiras percebidas pelos não-adotantes. Cross-reference importante.
 
-**"O que mudou no seu trabalho depois que começou a usar IA?"**
+---
+
+### 🔴 [NÃO-ADOTANTES CONSCIENTES] ROTA VERMELHA
+
+**⚠️ Use APENAS se a entrevistada CONHECE IA mas optou por NÃO USAR**
+**⚠️ Se ela USA, PULE para seção 🟢 [ADOTANTES]**
+
+---
+
+#### 2.7 🔴 Razões Detalhadas para Não-Adoção
+
+**"Você conhece IA, mas não usa. Me ajuda a entender: por que você decidiu não usar?"**
+
+##### Probes Estruturados por Categoria de Barreira
+
+###### Barreira Financeira
+- "É questão de custo? Quanto acharia caro demais?"
+- "Se fosse gratuita, usaria?"
+
+###### Barreira de Relevância
+- "Acha que não se aplica ao seu negócio? Por quê?"
+- "Acha que seu segmento é diferente?"
+- "Acredita que seu cliente valoriza 'feito à mão'?"
+
+###### Barreira de Qualidade
+- "Tem medo de ficar com 'cara de IA'? Sem personalidade?"
+- "Acha que resultado seria inferior ao seu trabalho manual?"
+- "Preocupa com autenticidade/credibilidade?"
+
+###### Barreira de Complexidade
+- "Acha muito complicado? Difícil de aprender?"
+- "Já tentou e não conseguiu?"
+- "Falta tempo pra aprender?"
+
+###### Barreira Ética/Moral
+- "Acha 'errado' usar IA? Como trapaça?"
+- "Preocupa com plágio ou direitos autorais?"
+- "Questões éticas te incomodam?"
+
+###### Barreira de Confiança
+- "Não confia na tecnologia?"
+- "Tem medo de erro/problema?"
+- "Preocupa com segurança de dados?"
+
+##### Capturar
+- ⚠️ BARREIRA PRINCIPAL (a mais forte - apenas 1!)
+- Barreiras secundárias (ranking de 2-5)
+- Natureza: RACIONAL (lógica) vs. EMOCIONAL (medo/crença)
+- Intensidade: LEVE / MODERADA / FORTE / BLOQUEANTE
+- Permanência: TEMPORÁRIA vs. ESTRUTURAL
+
+###### Nota Metodológica
+Esta é a pergunta MAIS CRÍTICA para não-adotantes. Explorar profundamente. Se resposta for vaga, usar probes até identificar barreira dominante clara.
+
+#### 2.8 🔴 Estratégias Alternativas Atuais
+
+**"Se você não usa IA, como você FAZ HOJE pra criar conteúdo e fazer marketing?"**
+
+##### Probes - Mapeamento de Estratégias
+
+###### Criação Manual
+- "Você mesma cria tudo? Quanto tempo gasta?"
+- "Onde busca inspiração?"
+- "Tem processo definido ou faz 'no feeling'?"
+
+###### Terceirização
+- "Contrata freelancer? Agência? Quanto custa?"
+- "Está satisfeita com o trabalho deles?"
+- "Dependência deles é problema?"
+
+###### Ferramentas Não-IA
+- "Usa banco de imagens (Unsplash, Pexels)?"
+- "Usa Canva? (sem IA)"
+- "Ferramentas de agendamento (Later, Hootsuite)?"
+
+###### Networking e Colaboração
+- "Troca ideias com outros empreendedores?"
+- "Copia referências de concorrentes/inspirações?"
+- "Participa de grupos/comunidades?"
+
+##### Capturar
+- Estratégia PRINCIPAL (a que mais usa)
+- Eficácia percebida: FUNCIONA BEM / MAIS OU MENOS / NÃO RESOLVE
+- Satisfação: SATISFEITA / INSATISFEITA / RESIGNADA
+- Pontos de dor NÃO resolvidos (mesmo com estratégia atual)
+- Custo (tempo e/ou dinheiro) da estratégia atual
+
+###### Nota Metodológica
+Se estratégia atual funciona BEM e ela está SATISFEITA, não-adoção é escolha racional. Se NÃO funciona mas não usa IA, explorar contradição.
+
+#### 2.9 🔴 Percepção de Urgência e Pressão
+
+**"Você sente que está ficando pra trás por não usar IA? Ou está tranquila com sua escolha?"**
 
 ##### Probes
-- Economiza tempo?
-- Melhora qualidade?
-- Aumenta produtividade?
-- Gera mais ideias?
+- "Vê concorrentes usando e tendo resultado melhor?"
+- "Sente ansiedade sobre isso? Ou tanto faz?"
+- "Alguém já te pressionou pra usar? (sócio/funcionário/consultor)"
+- "Acha que daqui 2-3 anos VAI SER obrigatório usar?"
 
 ##### Capturar
-- Benefícios realizados (vs. esperados)
-- Surpresas positivas/negativas
+- Percepção de urgência: NENHUMA / BAIXA / MODERADA / ALTA
+- Ansiedade competitiva (presente ou ausente)
+- Autoconfiança na escolha: CONVICTA / INSEGURA / RACIONALIZANDO
+- Norma social percebida (se sente 'fora do padrão')
 
-#### 2.6 Desafios Enfrentados
+###### Nota Metodológica
+Urgência baixa + satisfação com status quo = não-adotante convicto. Urgência alta + não usa = barreira está impedindo (explorar qual).
 
-**"Teve alguma dificuldade ao começar? Qual?"**
+#### 2.10 🔴 Intenção Comportamental Futura
 
-##### Capturar
-- Barreiras superadas
-- Curva de aprendizado
-- Erros iniciais
-<!-- markmap: foldAll -->
+**"Você pretende usar IA em algum momento futuro? Quando? O que precisaria acontecer?"**
 
-### 🔴 [NÃO-ADOTANTES] Perguntas Específicas
+##### Probes se PRETENDE
+- "Daqui quanto tempo acha que vai usar?"
+- "O que precisaria mudar pra você começar?"
+  - Preço cair?
+  - Ferramentas ficarem mais fáceis?
+  - Ver mais casos de sucesso?
+  - Ter ajuda/treinamento?
+  - Outro motivo?
 
-#### 2.7 Razões para Não-Adoção
+##### Probes se NÃO PRETENDE
+- "Por que decidiu definitivamente não usar?"
+- "Mesmo se fosse grátis e fácil, não usaria?"
+- "Tem alguma objeção filosófica/ética?"
 
-**"Você já pensou em usar IA pro marketing? Por que não usa?"**
-
-##### Probes específicos
-- É questão de **custo**?
-- Acha que **não se aplica** ao seu negócio?
-- Preocupação com **qualidade/autenticidade**?
-- Falta **tempo/conhecimento** pra aprender?
-
-##### Capturar
-- Barreira principal (priorizar!)
-- Barreiras secundárias
-- Natureza da resistência (racional vs. emocional)
-
-#### 2.8 Estratégias Alternativas
-
-**"Como você faz hoje pra criar conteúdo/fazer marketing sem IA?"**
-
-##### Probes
-- Cria tudo manualmente?
-- Usa banco de imagens?
-- Contrata freelancer/agência?
-- Copia referências?
+##### Probes - Teste de Hipótese
+- **"Cenário mágico: Eu coloco aqui agora uma IA gratuita, fácil de usar, que faz tudo que você precisa. Você usaria? Por que sim ou não?"**
 
 ##### Capturar
-- Eficácia das estratégias atuais
-- Satisfação com status quo
-- Pontos de dor não resolvidos
+- Intenção comportamental: SIM / TALVEZ / PROVAVELMENTE NÃO / DEFINITIVAMENTE NÃO
+- Horizonte temporal (se SIM/TALVEZ): semanas/meses/anos
+- Condições necessárias (hierarquia: 1º, 2º, 3º)
+- Convicção na decisão: FIRME / AMBIVALENTE / DEFENSIVA
 
-#### 2.9 Pressão ou Urgência
+###### Nota Metodológica
+Cenário mágico remove barreiras práticas (custo, complexidade). Se ainda assim resposta é NÃO, barreira é psicológica/ética profunda.
 
-**"Você sente que está ficando pra trás por não usar? Ou tá tranquilo?"**
+#### 2.11 🔴 Experimentação Passada (se aplicável)
 
-##### Capturar
-- Percepção de urgência
-- Ansiedade competitiva
-- Autoconfiança na escolha
-
-#### 2.10 Intenção Futura
-
-**"Você pretende usar IA em algum momento? Quando? Por quê?"**
+**"Você já TENTOU usar alguma vez? Mesmo que rapidinho?"**
 
 ##### Se SIM
-"O que precisaria acontecer pra você começar?"
+- "O que tentou fazer?"
+- "Deu certo ou errado?"
+- "Por que não continuou?"
+→ **Se ela JÁ TENTOU, considere mover para rota 🟡 EXPERIMENTADORES**
 
 ##### Se NÃO
-"Por que decidiu que não vai usar mesmo no futuro?"
+- "Por que nunca tentou nem pra testar?"
+- "Curiosidade zero? Ou teve vontade mas algo impediu?"
 
 ##### Capturar
-- Intenção comportamental
-- Condições para mudança
-- Convicção na decisão
-<!-- markmap: foldAll -->
+- Histórico de experimentação (sim/não)
+- Se sim: experiência (positiva/negativa)
+- Barreira para primeira tentativa
 
-### 🟡 [EXPERIMENTADORES] Perguntas Específicas
+---
 
-#### 2.11 Experiência de Teste
+### 🟡 [EXPERIMENTADORES] ROTA AMARELA
+
+**⚠️ Use se a entrevistada TESTOU IA mas NÃO INCORPOROU ou USA OCASIONALMENTE**
+
+---
+
+#### 2.11 🟡 Contexto da Experimentação
 
 **"Me conta como foi essa experiência de testar IA. O que você tentou fazer?"**
 
 ##### Probes
-- Qual ferramenta testou?
-- Para qual tarefa?
-- Quanto tempo usou?
-- Obteve resultado esperado?
+- "Qual ferramenta testou? Por quê escolheu essa?"
+- "Para qual tarefa específica?"
+- "Testou quantas vezes? Uma? Várias?"
+- "Quanto tempo usou? Dias? Semanas?"
 
 ##### Capturar
-- Contexto da experimentação
-- Expectativa vs. Realidade
+- Ferramenta testada
+- Tarefa específica
+- Duração da experimentação
+- Contexto (espontâneo ou influenciado)
 
-#### 2.12 Razões para Descontinuidade
+#### 2.12 🟡 Expectativa vs. Realidade
 
-**"Por que você parou de usar? O que não funcionou?"**
+**"O que você ESPERAVA que ia acontecer? E o que aconteceu DE FATO?"**
 
 ##### Probes
-- Resultado não foi bom?
-- Muito complicado?
-- Não valia o esforço?
-- Outro motivo?
+- "Resultado foi melhor ou pior do que esperava?"
+- "Deu trabalho demais?"
+- "Qualidade foi boa?"
+- "Te surpreendeu (positiva ou negativamente)?"
 
 ##### Capturar
-- Fator decisivo para abandono
-- Gap entre expectativa e realidade
+- Gap expectativa-realidade: POSITIVO / NEUTRO / NEGATIVO
+- Fator surpresa
+- Decepção específica
 
-#### 2.13 Retomada Futura
+#### 2.13 🟡 Razões para Descontinuidade
 
-**"Você pensaria em usar de novo? Em que situação?"**
+**"Por que você parou de usar? O que fez você não continuar?"**
+
+##### Probes
+- "Resultado não valeu o esforço?"
+- "Muito complicado?"
+- "Custo não compensou?"
+- "Não viu diferença real?"
+- "Esqueceu? Deixou de lado?"
 
 ##### Capturar
-- Abertura para retomada
-- Condições necessárias
-<!-- markmap: foldAll -->
+- Fator decisivo para abandono: CUSTO / COMPLEXIDADE / RESULTADO / HÁBITO
+- Custo-benefício percebido
+- Limiar de satisfação
 
-### 🏭 Variações por Setor
+#### 2.14 🟡 Abertura para Retomada
 
-#### Setor de Serviços (B2C)
-**"No seu segmento, o relacionamento com cliente é essencial. IA ajudaria ou atrapalharia isso?"**
+**"Você pensaria em usar de novo? Em que situação voltaria a testar?"**
 
-- Foco: Feeling AI, autenticidade, conexão emocional
+##### Capturar
+- Abertura: FECHADA / AMBIVALENTE / ABERTA
+- Condições necessárias para retomada
 
-#### Setor Industrial (B2B)
-**"IA pra análise de dados de mercado seria útil no seu caso?"**
+---
 
-- Foco: Decision Support, análise, eficiência
-<!-- markmap: foldAll -->
+### 🏭 VARIAÇÕES POR SETOR (Todos os Perfis)
+
+#### Setor de Serviços / Varejo (B2C)
+
+**"No seu segmento, o relacionamento com cliente é super importante. IA ajudaria ou atrapalharia essa conexão pessoal?"**
+
+##### Foco de Captura
+- Feeling AI vs. Autenticidade
+- Receio de "robotização"
+- Valor do toque humano
+<!-- markmap: fold -->
+
+#### Setor Industrial / B2B
+
+**"No B2B, decisão é mais racional. IA pra análise de dados e insights de mercado seria útil?"**
+
+##### Foco de Captura
+- Thinking AI / Decision Support
+- Dados e eficiência vs. Relacionamento
+<!-- markmap: fold -->
+
+#### Serviços Profissionais (Consultoria, etc.)
+
+**"Seu trabalho depende de expertise. IA seria concorrente ou ferramenta?"**
+
+##### Foco de Captura
+- Medo de commoditização
+- IA como ameaça vs. amplificador
+<!-- markmap: fold -->
 
 ---
 
 ## 📋 BLOCO 3: IMPACTOS PERCEBIDOS (15-20 min)
 
-**Objetivo Específico:** OE2 - Analisar impactos percebidos no desempenho
+**Objetivo Específico:** OE2 - Analisar impactos percebidos no desempenho e usabilidade
 **Construtos UTAUT:** Performance Expectancy (PE) + Effort Expectancy (EE)
-**Teoria Base:** UTAUT (Venkatesh et al.)
+**Teoria Base:** UTAUT (Venkatesh et al., 2003)
 
-### 🟢 [ADOTANTES] Benefícios Realizados
+**⚠️ Este bloco é CENTRAL para capturar PE e EE - os 2 construtos mais preditivos de intenção de uso**
 
-#### 3.1 Performance Expectancy Realizado [PE]
+---
 
-**"Na prática, IA realmente te ajudou? Como?"**
+### 🟢 [ADOTANTES PLENOS] ROTA VERDE - Benefícios REALIZADOS
 
-##### Probes Estruturados
-- **Eficiência**: "Economizou tempo? Quanto?"
-- **Qualidade**: "Conteúdo ficou melhor? Pior? Igual?"
-- **Produtividade**: "Consegue fazer mais coisas?"
-- **Criatividade**: "Te dá mais ideias?"
+**⚠️ Use APENAS se a entrevistada USA IA regularmente**
+**⚠️ Se NÃO USA, PULE para seção 🔴 [NÃO-ADOTANTES]**
 
-##### Capturar
-- Benefícios tangíveis vs. intangíveis
-- Ordem de importância
-- Surpresas positivas
+---
 
-#### 3.2 Exemplo Concreto
+#### 3.1 🟢 Performance Expectancy Realizado [PE]
 
-**"Me dá um exemplo de algo que IA fez e você ficou: 'Uau, isso funcionou!'?"**
+**"Na prática, IA REALMENTE te ajudou? Como? Me conta os benefícios concretos que você teve."**
 
-##### Capturar
-- Caso de sucesso específico
-- Emoção/satisfação associada
+##### Probes Estruturados por Dimensão de Benefício
 
-#### 3.3 Effort Expectancy Realizado [EE]
+###### Eficiência / Economia de Tempo
+- "Economizou quanto tempo? Por dia? Por semana?"
+- "Consegue fazer em 1h o que antes levava quanto tempo?"
+- "Libera tempo pra fazer outras coisas? Quais?"
 
-**"Foi fácil ou difícil aprender a usar? Por quê?"**
+###### Qualidade do Conteúdo
+- "Conteúdo ficou MELHOR, IGUAL ou PIOR do que fazia manual?"
+- "Clientes/seguidores perceberam diferença? Comentaram?"
+- "Você mesma nota diferença na qualidade?"
 
-##### Probes
-- Quanto tempo levou pra pegar o jeito?
-- Precisou de ajuda de alguém?
-- Ainda tem dificuldade em algo?
+###### Produtividade / Volume
+- "Consegue postar com mais frequência?"
+- "Faz MAIS coisas no MESMO tempo?"
+- "Quantos posts por semana fazia antes? E agora?"
 
-##### Capturar
-- Curva de aprendizado
-- Complexidade percebida
-- Barreiras técnicas superadas
+###### Criatividade / Ideação
+- "Te dá ideias que não teria sozinha?"
+- "Te ajuda a sair do bloqueio criativo?"
+- "Descobre ângulos/abordagens novos?"
 
-#### 3.4 Limitações e Frustrações
-
-**"Tem algo que IA não consegue fazer e você gostaria? Alguma limitação?"**
-
-##### Probes
-- Qualidade insuficiente em algum aspecto?
-- Falta de controle?
-- Resultados genéricos?
+###### Resultados de Negócio
+- "Percebe impacto em vendas? Engajamento?"
+- "Clientes aumentaram?"
+- "ROI melhorou?"
 
 ##### Capturar
-- Gaps funcionais
+- Ranking de benefícios (1º mais importante → último)
+- Benefícios TANGÍVEIS (tempo, dinheiro, volume) vs. INTANGÍVEIS (criatividade, confiança)
+- Gap entre expectativa inicial e realidade
+- Surpresas positivas (benefícios inesperados)
+- Desapontamentos (benefícios esperados que não vieram)
+
+###### Nota Metodológica
+PE realizado é CRITICAL. Comparar com PE projetado de não-adotantes revela gaps de percepção. Benefícios tangíveis são mais confiáveis que intangíveis.
+
+#### 3.2 🟢 Caso de Sucesso Emblemático
+
+**"Me dá UM exemplo CONCRETO de algo que IA fez e você pensou: 'Nossa, isso valeu a pena!' Um momento WOW."**
+
+##### Probes para Detalhar
+- "O que você pediu pra IA fazer?"
+- "O que ela entregou?"
+- "Por que te impressionou?"
+- "Quanto tempo teria levado sem IA?"
+
+##### Capturar
+- Descrição detalhada do caso
+- Emoção associada (surpresa/alívio/orgulho)
+- Valor percebido (quanto "valeu")
+- Momento de virada (se houver)
+
+###### Nota Metodológica
+Casos concretos são mais poderosos que generalizações. Usar para narrativa qualitativa na dissertação.
+
+#### 3.3 🟢 Effort Expectancy Realizado [EE]
+
+**"Agora sobre APRENDER a usar: foi fácil ou difícil? Me conta como foi."**
+
+##### Probes - Curva de Aprendizado (já perguntado no Bloco 2.6)
+- "Quanto tempo levou pra 'pegar o jeito'?"
+- "Primeira vez deu certo ou deu ruim?"
+- "Precisou de ajuda? De quem?"
+
+##### Probes - Complexidade Percebida HOJE
+- "Hoje, você acha que usar IA é FÁCIL, MÉDIO ou DIFÍCIL?"
+- "Tem alguma coisa que ainda te confunde?"
+- "Se tivesse que ensinar alguém, quanto tempo acha que levaria?"
+
+##### Probes - Comparação com Outras Tecnologias
+- "Comparado com aprender Instagram, WhatsApp Business, Canva... foi mais fácil, igual ou mais difícil?"
+- "O que torna IA mais fácil ou mais difícil?"
+
+##### Capturar
+- EE inicial (no começo): MUITO DIFÍCIL / DIFÍCIL / MÉDIO / FÁCIL / MUITO FÁCIL
+- EE atual (hoje): MUITO DIFÍCIL / DIFÍCIL / MÉDIO / FÁCIL / MUITO FÁCIL
+- Evolução de EE (ficou mais fácil com prática?)
+- Fatores que facilitaram (suporte, prática, simplificação da ferramenta)
+- Fatores que dificultaram (terminologia, bugs, falta de tutorial)
+- Auto-eficácia atual (confiança em dominar a ferramenta)
+
+###### Nota Metodológica
+EE inicial alto + persistência = descobrir o que motivou continuar apesar de difícil. EE inicial baixo = adoção mais suave, menos barreiras.
+
+#### 3.4 🟢 Limitações e Frustrações Atuais
+
+**"Tem algo que IA NÃO consegue fazer bem e você gostaria? Alguma frustração recorrente?"**
+
+##### Probes por Tipo de Limitação
+
+###### Gaps Funcionais (o que IA não faz)
+- "O que você AINDA faz 100% manual porque IA não dá conta?"
+- "Que função você queria que tivesse mas não tem?"
+
+###### Gaps de Qualidade (o que IA faz mal)
+- "Qual resultado de IA costuma sair 'meio ruim'?"
+- "O que parece muito 'robótico' ou 'genérico'?"
+- "Já teve resultado que precisou descartar?"
+
+###### Gaps de Controle/Previsibilidade
+- "IA te surpreende negativamente às vezes? Como?"
+- "Sente falta de controle sobre o resultado?"
+- "É previsível ou imprevisível?"
+
+###### Gaps de Integração
+- "Dá trabalho integrar IA com outras ferramentas?"
+- "Workflow é fluido ou travado?"
+
+##### Capturar
+- Limitação MAIS FRUSTRANTE (priorizar 1)
+- Lista completa de limitações
+- Workarounds criados
 - Expectativas não atendidas
+- Se limitações são deal-breakers ou "dá pra conviver"
 
-#### 3.5 Comparação Antes/Depois
+###### Nota Metodológica
+Limitações de adotantes = possíveis barreiras de não-adotantes. Cross-reference crucial. Se adotante diz "IA não faz X bem" e não-adotante cita X como barreira, há validação cruzada.
 
-**"Se você comparar como fazia antes e como faz agora com IA, qual a maior diferença?"**
+#### 3.5 🟢 Comparação Antes vs. Depois (Síntese)
 
-##### Capturar
-- Impacto no workflow
-- Mudança mais significativa
-<!-- markmap: foldAll -->
-
-### 🔴 [NÃO-ADOTANTES] Expectativas Projetadas
-
-#### 3.6 Performance Expectancy Projetado [PE]
-
-**"Se você USASSE IA, você acha que ia te ajudar? Em quê?"**
+**"Se você pudesse resumir: qual a MAIOR MUDANÇA no seu trabalho depois de IA?"**
 
 ##### Probes
-- "Acredita que economizaria tempo?"
-- "Acha que qualidade seria boa?"
-- "Melhoraria seus resultados?"
+- "Se IA sumisse amanhã, o que você mais sentiria falta?"
+- "Conseguiria voltar a trabalhar sem IA?"
+- "Recomendaria pra outra empresária do seu segmento? Por quê?"
 
 ##### Capturar
-- Expectativas positivas vs. negativas
-- Ceticismo vs. otimismo
-- Base das expectativas (racional/emocional)
+- Mudança mais significativa (1 frase)
+- Impacto no workflow geral
+- Dependência criada (leve/moderada/forte)
+- Satisfação geral: MUITO SATISFEITA / SATISFEITA / INDIFERENTE / INSATISFEITA
+- Probabilidade de recomendar (0-10)
 
-#### 3.7 Effort Expectancy Projetado [EE]
+###### Nota Metodológica
+Pergunta de síntese. Identificar THE ONE THING que mudou mais. Usar na narrativa central da dissertação.
 
-**"Você acha que seria fácil ou difícil pra você aprender a usar?"**
+---
+
+### 🔴 [NÃO-ADOTANTES CONSCIENTES] ROTA VERMELHA - Expectativas PROJETADAS
+
+**⚠️ Use APENAS se a entrevistada CONHECE IA mas optou por NÃO USAR**
+**⚠️ Se ela USA, PULE para seção 🟢 [ADOTANTES]**
+
+---
+
+#### 3.6 🔴 Performance Expectancy Projetado [PE]
+
+**"Se você USASSE IA, você ACHA que ela te ajudaria? Em quê? Ou acha que não mudaria nada?"**
+
+##### Probes por Dimensão (mesma estrutura dos adotantes)
+
+###### Eficiência / Tempo
+- "Você ACHA que economizaria tempo?"
+- "Quanto tempo acha que economizaria?"
+- "Ou acha que daria MAIS trabalho do que ajudaria?"
+
+###### Qualidade
+- "Você acha que conteúdo de IA seria BOM, RUIM ou MAIS OU MENOS?"
+- "Acha que ficaria com 'cara de IA'? Sem personalidade?"
+- "Clientes perceberiam diferença? Reagiriam mal?"
+
+###### Produtividade
+- "Conseguiria postar mais? Ou tanto faz?"
+- "Faria diferença real no seu negócio?"
+
+###### Criatividade
+- "IA te daria ideias úteis? Ou só coisa genérica?"
+- "Confia que IA entenderia seu negócio?"
+
+###### Resultados de Negócio
+- "Acha que venderia mais? Ou não tem relação?"
+- "Aumentaria engajamento?"
+- "Valeria o investimento (tempo/dinheiro)?"
+
+##### Capturar - CRÍTICO: Expectativas Positivas vs. Negativas
+- **PE POSITIVO:** Lista de benefícios esperados (se houver)
+- **PE NEGATIVO:** Lista de malefícios/problemas esperados
+- **PE NEUTRO:** "Tanto faz, não mudaria nada"
+- Balança: Benefícios esperados SUPERAM malefícios? Ou vice-versa?
+- Grau de ceticismo: CÉTICA TOTAL / CÉTICA MODERADA / NEUTRA / OTIMISTA CAUTELOSA / OTIMISTA
+- Base da expectativa: EXPERIÊNCIA DIRETA / OBSERVAÇÃO DE OUTROS / MÍDIA / INTUIÇÃO
+
+###### Nota Metodológica
+PE projetado de não-adotantes é ESPECULAÇÃO. Comparar com PE realizado de adotantes revela gaps críticos. Se PE projetado for negativo, barreira é crença. Se PE projetado for positivo mas não usa, barreira está em outro lugar (EE, FC, SI).
+
+#### 3.7 🔴 Effort Expectancy Projetado [EE]
+
+**"Você acha que seria FÁCIL ou DIFÍCIL pra você aprender a usar IA?"**
+
+##### Probes - Auto-Avaliação
+- "Por que acha fácil/difícil?"
+- "Quanto tempo acha que levaria pra aprender?"
+  - Horas? Dias? Semanas? Meses?
+- "Se considera 'boa com tecnologia' ou 'não muito'?"
+
+##### Probes - Experiência Prévia com Tecnologia
+- "Já aprendeu outras ferramentas digitais?"
+  - Instagram? Canva? WhatsApp Business? Excel?
+- "Como foi? Difícil ou tranquilo?"
+- "Precisou de ajuda? De quem?"
+
+##### Probes - Ansiedade Tecnológica
+- "Tem MEDO de 'não dar conta'?"
+- "Prefere ferramentas simples ou consegue lidar com complexidade?"
+- "Já desistiu de alguma tecnologia por achar difícil demais?"
+
+##### Capturar
+- EE projetado: MUITO DIFÍCIL / DIFÍCIL / MÉDIO / FÁCIL / MUITO FÁCIL
+- Auto-eficácia digital: BAIXA / MÉDIA / ALTA
+- Experiência prévia com tecnologia: NENHUMA / BÁSICA / INTERMEDIÁRIA / AVANÇADA
+- Ansiedade tecnológica: ALTA / MODERADA / BAIXA / NENHUMA
+- Tempo estimado de aprendizado
+- Necessidade de suporte: PRECISA MUITO / PREFERE TER / CONSEGUE SOZINHA
+
+###### Nota Metodológica
+EE projetado alto é barreira CRÍTICA. Se ela acha difícil, não vai nem tentar. Comparar EE projetado com EE realizado de adotantes (adotantes acharam mais fácil do que não-adotantes imaginam?).
+
+#### 3.8 🔴 Impactos Negativos Antecipados (Riscos Percebidos)
+
+**"Você tem MEDO de algum impacto NEGATIVO se usar IA? Tipo: 'se eu usar IA, pode acontecer X ruim'?"**
+
+##### Probes Estruturados por Tipo de Risco
+
+###### Risco de Imagem/Autenticidade
+- "Medo de parecer 'fake'? Artificial?"
+- "Preocupa perder a 'essência da marca'?"
+- "Cliente descobrir e reagir mal?"
+
+###### Risco de Negócio
+- "Medo de PERDER clientes?"
+- "Receio de qualidade cair?"
+- "Medo de errar feio em público?"
+
+###### Risco de Dependência
+- "Medo de 'viciar' e não conseguir mais fazer sem?"
+- "Receio de perder habilidades próprias?"
+
+###### Risco Técnico/Operacional
+- "Medo de dar problema técnico?"
+- "Preocupa com segurança de dados?"
+- "Receio de complicar mais do que ajudar?"
+
+###### Risco Financeiro
+- "Medo de gastar e não ter retorno?"
+- "Receio de virar despesa fixa cara?"
+
+###### Risco Ético/Moral
+- "Sente que usar IA é 'trapaça'?"
+- "Preocupa com plágio ou direitos autorais?"
+- "Questões éticas te incomodam?"
+
+##### Capturar
+- Lista completa de riscos percebidos
+- Risco DOMINANTE (o que mais preocupa)
+- Intensidade do medo: FORTE / MODERADO / LEVE
+- Probabilidade percebida (acha que vai acontecer mesmo?): ALTA / MÉDIA / BAIXA
+- Reversibilidade ("se der ruim, consigo voltar atrás?"): SIM / NÃO / NÃO SEI
+
+###### Nota Metodológica
+Riscos antecipados são barreiras psicológicas. Perguntar "esse medo é baseado em alguma experiência ou é mais sensação?" diferencia barreiras racionais vs. emocionais.
+
+#### 3.9 🔴 Comparação IA vs. Estratégia Atual
+
+**"Você acha que IA faria MELHOR do que você faz HOJE?"**
+
+##### Se resposta for "SIM, IA faria melhor"
+- **"Então por que você não usa?"** (explorar contradição!)
+- "O que te impede de usar algo que você mesma acha que seria melhor?"
+- Capturar: Barreira bloqueando (qual?)
+
+##### Se resposta for "NÃO, eu faço melhor"
+- "Por quê? O que você faz tem vantagem sobre IA?"
+- "Sua forma manual é melhor em quê?"
+- "IA nunca vai chegar nesse nível ou é questão de tempo?"
+- Capturar: Confiança na superioridade do manual
+
+##### Se resposta for "DEPENDE / NÃO SEI"
+- "Depende de quê?"
+- "Tem coisas que IA faria melhor e outras que você faz melhor?"
+- Capturar: Visão híbrida
+
+##### Capturar
+- Comparação: IA MELHOR / IGUAL / PIOR / DEPENDE
+- Justificativa da comparação
+- Confiança na avaliação: CERTA / ACHO QUE... / NÃO SEI
+- Se contradição (acha IA melhor mas não usa): barreira identificada
+
+###### Nota Metodológica
+Contradições são GOLD. Se ela admite que IA seria melhor mas não usa, barreira é externa (custo, tempo, suporte) ou psicológica (medo, ética). Explorar profundamente.
+
+#### 3.10 🔴 Cenário Hipotético (Teste de Barreira Dominante)
+
+**"Cenário mágico: Eu coloco aqui agora uma IA 100% GRATUITA, FÁCIL de usar, que faz TUDO que você precisa perfeitamente. Você usaria? Por que SIM ou por que NÃO?"**
+
+##### Probes de Follow-up
+
+###### Se "SIM, usaria"
+- "Então barreira é custo e complexidade, não a IA em si?"
+- "Se ficasse mais barata e fácil, você usa?"
+
+###### Se "TALVEZ usaria"
+- "O que te faria decidir sim ou não?"
+- "Qual sua maior dúvida ainda?"
+
+###### Se "NÃO usaria mesmo assim"
+- **"Por quê? O que ainda te impede?"** (CRÍTICO!)
+- "É questão filosófica? Ética? Outra?"
+- Capturar: Barreira INTRÍNSECA à IA (não é custo/complexidade)
+
+##### Capturar
+- Resposta ao cenário mágico: SIM / TALVEZ / PROVAVELMENTE NÃO / NÃO
+- Barreira revelada: CUSTO / COMPLEXIDADE / RELEVÂNCIA / ÉTICA / QUALIDADE / OUTRA
+- Hierarquia de barreiras (se remover custo e complexidade, o que sobra?)
+- Vontade intrínseca: TEM VONTADE MAS... / NÃO TEM VONTADE MESMO
+
+###### Nota Metodológica
+Esta pergunta REMOVE barreiras práticas (custo, complexidade). Se ainda assim resposta é NÃO, barreira é PROFUNDA (valores, ética, identidade, medo irracional). Crucial para segmentar não-adotantes resistentes vs. não-adotantes contingentes.
+
+---
+
+### 🟡 [EXPERIMENTADORES] ROTA AMARELA - Gap Expectativa vs. Realidade
+
+**⚠️ Use se a entrevistada TESTOU IA mas NÃO INCORPOROU**
+
+---
+
+#### 3.11 🟡 Expectativa Original vs. Resultado Real
+
+**"Quando você decidiu testar IA, o que você ESPERAVA que ia acontecer? E o que aconteceu DE FATO?"**
 
 ##### Probes
-- "Por que acha difícil/fácil?"
-- "Já tentou aprender algo parecido antes?"
-- "Quanto tempo acha que levaria?"
+- "Resultado foi MELHOR, IGUAL ou PIOR do que esperava?"
+- "Te surpreendeu positivamente em algo?"
+- "Te decepcionou em algo?"
+- "Deu mais trabalho do que esperava?"
 
 ##### Capturar
-- Auto-eficácia percebida
-- Experiência prévia com tecnologia
-- Ansiedade tecnológica
+- Expectativa inicial (descrever)
+- Resultado real (descrever)
+- Gap: POSITIVO (superou) / NEUTRO (igual) / NEGATIVO (decepcionou)
+- Fator surpresa (positivo ou negativo)
 
-#### 3.8 Impactos Negativos Antecipados
+#### 3.12 🟡 Por Que Benefícios Não Foram Suficientes
 
-**"Você tem medo de algum impacto NEGATIVO? Tipo: 'se eu usar IA, pode acontecer X'?"**
+**"Teve ALGUM benefício quando testou, mas não foi suficiente pra continuar. Por quê?"**
 
 ##### Probes
-- Medo de parecer "fake"?
-- Perder clientes?
-- Complicar mais do que ajudar?
-- Custo não valer a pena?
+- "Benefício foi pequeno demais?"
+- "Trabalho pra usar foi grande demais?"
+- "Custo não compensou?"
+- "Não viu diferença real no negócio?"
+- "Qualidade não agradou?"
 
 ##### Capturar
-- Riscos percebidos
-- Barreiras psicológicas
-- Crenças limitantes
+- Benefícios percebidos (lista)
+- Custos percebidos (tempo, dinheiro, esforço)
+- Balança custo-benefício: NÃO VALE / QUASE VALE / VALERIA SE...
+- Limiar de satisfação (o que precisaria pra valer?)
+- Fator decisivo para abandono
 
-#### 3.9 Comparação com Estratégias Atuais
-
-**"Você acha que IA faria MELHOR do que você faz hoje?"**
-
-##### Se SIM
-"Então por que não usa?" (explorar contradição)
-
-##### Se NÃO
-"Por quê? O que você faz tem vantagem?"
-
-##### Capturar
-- Confiança nas estratégias atuais
-- Valor percebido da IA vs. Status quo
-- Racionalização da não-adoção
-
-#### 3.10 Cenário Hipotético
-
-**"Se eu colocasse uma IA aqui agora, gratuita e fácil, você usaria? Por que sim/não?"**
-
-##### Capturar
-- Hierarquia de barreiras (custo? complexidade? outro?)
-- Vontade real vs. Obstáculos práticos
-<!-- markmap: foldAll -->
-
-### 🟡 [EXPERIMENTADORES] Benefícios Percebidos vs. Realizados
-
-#### 3.11 Gap Expectativa-Realidade
-
-**"O que você esperava da IA quando testou? O que realmente aconteceu?"**
-
-##### Capturar
-- Discrepância entre esperado e real
-- Fator que mais decepcionou
-
-#### 3.12 Por que Benefícios Não Foram Suficientes
-
-**"Teve algum benefício, mas não foi suficiente pra continuar? Por quê?"**
-
-##### Capturar
-- Custo-benefício percebido
-- Limiar de satisfação
-<!-- markmap: foldAll -->
+###### Nota Metodológica
+Experimentadores são valiosos: tiveram expectativa, testaram, mediram realidade. Gap entre PE projetado e PE realizado é empírico neles.
 
 ---
 
